@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Zinger Stacker Combo",
+    "description": "A delicious combo with a Zinger burger, fries, 1 regular drink",
+    "image": "https://www.kfcpakistan.com/images/63fb28b0-9627-11ef-be4f-a734b6b6ba4f-stacker-combo-2024-10-29185539.png",
+    "price": 950
+  },
+  {
+    "title": "Zinger Got Wings",
+    "description": "2 Zinger Burgers + 1 regular drink + Wings Bucket (6 pcs)",
+    "image": "https://www.kfcpakistan.com/images/7e703860-8c0a-11ef-96ca-83eb584d9244-Thumbnail(3)-2024-10-16220337.png",
+    "price": 1150
+  },
+  {
+    "title": "Crispy Duo Box",
+    "description": "Turn up the fun with 5 pcs Hot & Crispy Chicken + 1 Large fries + 1 regular drink + + 1 regular drink",
+    "image": "https://www.kfcpakistan.com/images/63fb28b0-9627-11ef-b5b6-331c16c28159-CrispyDuoBox-2024-10-29185539.png",
+    "price": 1350
+  },
+  {
+    "title": "Family Festival 3",
+    "description": "An ultimate meal for the fam. It includes 4 Zinger burgers + 4 pieces Hot and Crispy Chicken + 2 Dinner rolls + 1.5L drink",
+    "image": "https://www.kfcpakistan.com/images/634e6df0-9627-11ef-b12f-312c6a2b6968-family-Festivle-3-2024-10-29185538.png",
+    "price": 2590
+  }
+]
